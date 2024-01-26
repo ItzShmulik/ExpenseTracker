@@ -1,0 +1,17 @@
+html{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #c8cacc;
+    margin: 0;
+    padding: 0;
+}
+
+#title{
+    color: #703b4a;
+    font-family: 'Calibri';
+    font-size: 50px;
+    text-align: center;
+}
